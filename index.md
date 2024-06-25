@@ -4,7 +4,7 @@
 
 
 
-## Oi, sou Mariana, apaixonada por liguagem Pynthon. 
+## Oi, sou Mariana, apaixonada por liguagem Python. 
 
 
 ### Atulamente estou estudando várias coisas, como:
