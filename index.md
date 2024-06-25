@@ -1,13 +1,13 @@
-<h1> Esse é o meu Profile </h1>
+# Esse é o meu Profile 
 
 ![logo](https://github.com/LabDevOps09/skills-communicate-using-markdown/assets/166772912/103304d5-2580-4a90-a3ed-0a5a0ede64ff)
 
 
 
-<h2> Oi, sou Mariana, apaixonada por liguagem Pynthon.</h2>  
+## Oi, sou Mariana, apaixonada por liguagem Pynthon. 
 
 
-<h4> Atulamente estou estudando várias coisas, como:</h4>
+### Atulamente estou estudando várias coisas, como:
 
 1. GitHub
 2. Linguagem *Python*
