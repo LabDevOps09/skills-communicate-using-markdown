@@ -48,4 +48,4 @@ print('É um grande prazer em te conhecer', nome)```
 - [x] Segundo Estudar GitHub
 - [ ] Terceiro Javascript
 
-<h2> Esse respositório é para estudo - vou tirar a cerfiticação GitHub Foundations</h2>
+<h2> Esse respositório é para estudo - vou tirar a cerfiticação GitHub Foundations</h2> 🚀
