@@ -1,4 +1,4 @@
-# Esse é o meu Profile 
+# Esse é o meu Profile 😄
 
 ![logo](https://github.com/LabDevOps09/skills-communicate-using-markdown/assets/166772912/103304d5-2580-4a90-a3ed-0a5a0ede64ff)
 
