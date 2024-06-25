@@ -38,9 +38,9 @@ Angular|JavaScript
 
 <h5> Linhas de código:</h5>
 
-`print('Olá, mundo!')
+```print('Olá, mundo!')
 nome = input('Qual é seu nome?')
-print('É um grande prazer em te conhecer', nome)`
+print('É um grande prazer em te conhecer', nome)```
 
 > **Lista de Tarefas:**
 
